@@ -40,3 +40,39 @@
     width:120px;
     padding: 5px;
 }
+
+
+.middle-part{
+    display:flex;
+    justify-content: space-around;
+    padding:20px;
+    height: 100vh;
+    background-image: url("../images/background.png"),linear-gradient(45deg, rgba(86, 7, 7, 0.623), #5a1e1e);
+    color: white;
+    
+}
+
+.heading{
+    font-size: 50px;
+    padding-top: 180px;
+}
+
+.para{
+    font-size: 20px;
+}
+
+.btn{
+    margin-top: 20px;
+    padding:10px 20px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+
+
+
+.banner{
+    width:200px;
+    height: 300px;
+    padding-top: 150px;
+}
