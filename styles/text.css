@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+.logo-container{
+    display:flex;
+    justify-content: space-around;
+    background-color: gray;
+    color: white;
+    padding: 10px;
+    height: 50px;
+    
+
+}
+
+.menu-bar{
+    display:flex;
+    list-style: none;
+    
+    
+}
+
+.menu{
+    margin-right: 17px;
+    padding: 10px;
+    font-size:18px;
+    cursor: pointer;
+    
+}
+
+.logo{
+    width:100px;
+    padding: 5px;
+    
+
+}
+
+.nav{
+    width:120px;
+    padding: 5px;
+}
